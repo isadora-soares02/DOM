@@ -1,0 +1,51 @@
+.but{
+    background-color: green;
+    
+    border-radius: 30px;
+    width: 120px;
+    height: 60px;
+    border: 2px;
+    cursor: pointer;
+}
+
+.bt{
+    width: 120px;
+    height: 60px;
+    margin-left: 20px;
+    background-color: blue;
+} 
+
+.alinharImg{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    margin-left: 200px;
+    
+}
+
+.alinharBtn{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.alinharButtons{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+
+
+.nova-classe {
+    background-color: yellow;
+    color: black;
+    scale: 1.02;
+}
+
+
+
