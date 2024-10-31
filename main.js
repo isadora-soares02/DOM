@@ -10,6 +10,7 @@ button.addEventListener('click', () => {
         dogImage.src = 'img/2.png';
     }
     isdogOriginal = !isdogOriginal;
+    
 });
 
 const titButton = document.querySelector('.btnTit');
